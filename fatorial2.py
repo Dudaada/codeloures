@@ -1,5 +1,5 @@
 N = int(input())
-produto = 1
+prod = 1
 for i in range(1, N):
-    produto = i * produto
-    print(produto)
+    produto = i * prod
+    print(prod)
